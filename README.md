@@ -14,4 +14,4 @@ To run the scripts successfully and use the function, you must:
 - Have all the files in the same directory.
 - If using a ".txt" file, ensure that it is either in the same directory or properly pathed.
 - The function that should ultimately be run is the "number_2_word()" function from the "number_2_word.py" file.
-- To run this function outside of the script, simply run "from number_2_word import number_2_word" into a new file in the same directory - simple as that!
+- To use this function outside of the script, simply run "from number_2_word import number_2_word" into a new file in the same directory - simple as that!
