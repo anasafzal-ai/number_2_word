@@ -8,3 +8,7 @@ There are several key assumptions held in this project:
 - Number must be an integer
 - Valid inputs include ".txt" files, integer, and string of integer. 
 - ".txt" file and string must contain a valid number but cannot have inside of it a non-number (e.g. "#1234" or "1,2,3,4" or "1234.")  
+
+To run the scripts successfully and use the function, you must:
+- Have all the files in the same directory.
+- If using a ".txt" file, ensure that it is either in the same directory or properly pathed.
