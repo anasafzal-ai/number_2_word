@@ -9,6 +9,7 @@
 - Valid inputs include ".txt" files, integer, and string of integer. 
 - String must contain a valid number (e.g. "1234") and cannot have inside of it a non-number (e.g. "#1234" or "1,2,3,4" or "1234." are all invalid.)  
 - ".txt" file can contain non-numbers as long as it is not inside the number (valid: "I am 25 years old", invalid: "I am 25-years old")
+- ".txt" file only contains one valid number otherwise invalid input. 
 
 # To run the scripts successfully and use the function, you must:
 - Have all the files in the same directory.
