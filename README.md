@@ -6,7 +6,7 @@
 - Number cannot exceed 12-digits.
 - Number can only be positive.
 - Number must be an integer.
-- Valid inputs include ".txt" files, integer, and string of integer. 
+- Valid inputs include ".txt" files, integer, and string containing a valid integer. 
 - String must contain a valid number (e.g. "1234") and cannot have inside of it a non-number (e.g. "#1234" or "1,2,3,4" or "1234." are all invalid.)  
 - ".txt" file can contain non-numbers as long as it is not inside the number (valid: "I am 25 years old", invalid: "I am 25-years old")
 - ".txt" file only contains one valid number otherwise invalid input. 
