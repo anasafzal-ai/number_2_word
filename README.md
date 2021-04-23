@@ -7,7 +7,8 @@ There are several key assumptions held in this project:
 - Number can only be positive.
 - Number must be an integer
 - Valid inputs include ".txt" files, integer, and string of integer. 
-- ".txt" file and string must contain a valid number but cannot have inside of it a non-number (e.g. "#1234" or "1,2,3,4" or "1234.")  
+- String must contain a valid number and cannot have inside of it a non-number (e.g. "#1234" or "1,2,3,4" or "1234.")  
+- ".txt" file can contain non-numbers as long as it is not inside the number (valid: "I am 25 years old", invalid: "I am 25-years old")
 
 To run the scripts successfully and use the function, you must:
 - Have all the files in the same directory.
