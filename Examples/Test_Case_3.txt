@@ -1,1 +1,2 @@
-
+Variables reported as having a
+missing type #65678.
