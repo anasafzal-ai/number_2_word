@@ -13,7 +13,7 @@
 - ".txt" file only contains one valid number otherwise invalid input. (valid: "253000 Kilos", invalid: "25 3,000 Kilos")
 
 # INSTRUCTIONS - To run the scripts successfully and use the function, you must:
-- Have all the files in the same directory.
+- Have all the files in the same directory - you can do this by either cloning the repository or downloading the zip. 
 - If using a ".txt" file, ensure that it is either in the same directory or properly pathed.
 - The function that should ultimately be run is the "number_2_word()" function from the "number_2_word.py" file.
 - To use this function outside of the script, simply run "from number_2_word import number_2_word" into a new file in the same directory - simple as that!
