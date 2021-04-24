@@ -16,7 +16,7 @@
 - Have all the files in the same directory - you can do this by either cloning the repository or downloading the zip. 
 - If using a ".txt" file, ensure that it is either in the same directory or properly pathed.
 - The function that should ultimately be run is the "number_2_word()" function from the "number_2_word.py" file.
-- To immediately see test cases and examples in using the number_2_word() function, please check the "Examples.py" file.
+- For best use, please see test cases and examples in using the number_2_word() function within the "Examples.py" file. Also, if you want to run any inputs of your own, please use the "Examples.py" file as this will be the easiest to run. Just simply run it, and ensure any paths for files are correctly written. 
 
 # EXAMPLES & TEST CASES- To see some examples of this function working:
 - Run the "Examples.py" file. 
