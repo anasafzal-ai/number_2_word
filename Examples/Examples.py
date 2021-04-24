@@ -5,6 +5,10 @@
 # Then, We'll input a string number as well.
 # Lastly we will include some examples of invalid inputs 
 
+### import the necessary modules ###
+from number_2_words.number_map import number_map
+from number_2_words.number_word_constructor import construct_number_word, run_number_words
+from number_2_words.number_2_word import number_2_word
 
 
 ### Example 0: use the test cases provided in the brief ###
@@ -90,7 +94,7 @@ for i in random_sample:
 
 ### Example 2: An example ".txt" file ###
 
-file_name = "example_sentence_file.txt"
+file_name = "Examples/example_sentence_file.txt"
 
 number_2_word(file_name)
 
@@ -116,5 +120,5 @@ number_2_word("36 789")
 
 number_2_word("$785")
 
-number_2_word("invalid_file_example.txt")
+number_2_word("Examples/invalid_file_example.txt")
 
