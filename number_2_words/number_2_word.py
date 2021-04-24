@@ -1,6 +1,7 @@
 
-#import the 2 functions that constructs the number to word and runs it 
-from number_word_constructor import construct_number_word, run_number_words
+#import the number to word map and 2 functions that constructs the number to word and runs it 
+from number_2_words.number_map import number_map
+from number_2_words.number_word_constructor import construct_number_word, run_number_words
 
 def number_2_word(number):
 
@@ -30,7 +31,7 @@ def number_2_word(number):
         if valid_number == '':
             return "Invalid Input"
         
-        all_numbers = "".join([char.replace(' ', '') for char in number if char.isdigit()])
+        all_numbers = "".join([char.replace(' ', '') for char in s if char.isdigit()])
 
         if valid_number == all_numbers:
             return run_number_words(valid_number)
