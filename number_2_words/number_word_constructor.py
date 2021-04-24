@@ -8,7 +8,7 @@
 
 
 
-from number_map import number_map
+from number_2_words.number_map import number_map
 
 def construct_number_word(number, index):
 
