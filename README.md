@@ -20,3 +20,4 @@
 
 # EXAMPLES - To see some examples of this function working:
 - Run the "Examples.py" file. 
+- Ensure you all the necessary scripts, as well as all the files in the Examples folder
