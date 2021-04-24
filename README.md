@@ -18,6 +18,6 @@
 - The function that should ultimately be run is the "number_2_word()" function from the "number_2_word.py" file.
 - To use this function outside of the script, simply run "from number_2_word import number_2_word" into a new file in the same directory - simple as that!
 
-# EXAMPLES - To see some examples of this function working:
+# EXAMPLES & TEST CASES- To see some examples of this function working:
 - Run the "Examples.py" file. 
 - Ensure you all the necessary scripts, as well as all the files in the Examples folder
