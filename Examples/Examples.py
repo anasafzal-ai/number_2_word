@@ -13,8 +13,6 @@ from number_2_words.number_2_word import number_2_word
 
 ### Example 0: use the test cases provided in the brief ###
 
-from number_2_word import number_2_word
-
 test_case_1 = "The pump is 536 deep underground."
 
 number_2_word(test_case_1)
