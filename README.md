@@ -1,5 +1,5 @@
 # number_2_word
-- This project looks at converting any number to it's word variant (i.e. 1 -> "one")
+- This project looks at converting any number to it's word variant (i.e. 168432035002 -> "one hundred and sixty-eight billion, four hundred and thirty-two million, thirty-five thousand and two").
 - Due to the intuitive structure of the mapping system as well as the functions, if in the future changes needed to be made (such as increasing valid range to the trillions, or allowing negative numbers, or even removing the conjunctions) it is very easy to do so. 
 - Also, as the functions are seperated by what key role they play in converting a number to a word, de-bugging is incredibly easy (even if we apply Eagleson's Law!)
 
